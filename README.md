@@ -3,7 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23AF00AF&lines=FOLLOW+US+ON+GITHUB😉🤳📶)](https://git.io/typing-svg)
 
 
-![AryanHack907](https://komarev.com/ghpvc/?username=AryanHack907&color=blue)
+
+<h3><b><i>🏆 Github Statistics :</i></b></h3>
+
+       Visitors Ｃount
+ <img src="https://profile-counter.glitch.me/AryanHack907/count.svg" />
+</p>
 
 <a href="https://github.com/AryanHack907"><img src="https://img.shields.io/github/followers/AryanHack907?label=followers&style=social"/></a>
 
