@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF0000&lines=WELCOME+TO+MY+GITHUB+FARHAD+JOYA)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?COLOR=%23FF0000&LINES=FOLLOW +US +ON GITHUB
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23AF00FF&lines=Student+of+7th,+9th+Class+😉🤳📶)](https://git.io/typing-svg)
 
 
