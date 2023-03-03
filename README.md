@@ -5,7 +5,7 @@
 
 ![AryanHack907](https://komarev.com/ghpvc/?username=AryanHack907&color=blue)
 
-<a href="https://github.com/FarhadHack907"><img src="https://img.shields.io/github/followers/FarhadHack907?label=followers&style=social"/></a>
+<a href="https://github.com/AryanHack907"><img src="https://img.shields.io/github/followers/AryanHack907?label=followers&style=social"/></a>
 
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/profile.php?id=100075227348133)
 
